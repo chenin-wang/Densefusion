@@ -8,3 +8,5 @@ lib/knn/knn_pytorch/__pycache__/*
 __init__.*
 *.pth
 YCB_Video_toolbox
+YCB_Video_Dataset.zip
+trained_checkpoints.zip
